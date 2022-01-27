@@ -32,7 +32,7 @@ const ChatFeed = (props) => {
             }}
           >
               read-receipts
-            {/* {renderReadReceipts(message, isMyMessage)} */}
+            
           </div>
         </div>
       );
