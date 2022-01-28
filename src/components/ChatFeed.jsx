@@ -1,3 +1,4 @@
+import LogOut from "./LogOut";
 import MessageForm from "./MessageForm";
 import MyMessage from "./MyMessage";
 import TheirMessage from "./TheirMessage ";
@@ -50,7 +51,7 @@ const ChatFeed = (props) => {
   };
 
   if (!chat) return "Click on add button";
-
+  
   return (
     <div className="chat-feed">
       <div className="chat-title-container">
@@ -63,6 +64,7 @@ const ChatFeed = (props) => {
       <div style={{ height: '100px' }} />
       <div className="message-form-container">
         <MessageForm {...props} chatId={activeChat} />
+      <LogOut/>
       </div>
     </div>
   );

@@ -288,6 +288,24 @@
     opacity: 1;
     right: 0;
   }
+  .logout{
+    border-radius: 10px;
+    border: none;
+    background-color: orange;
+    color: white;
+    text-align: center;
+    font-size: 10px;
+    padding: 1px;
+    width: 20px;
+    transition: all 0.4s;
+    cursor: pointer;
+    margin: 2px;
+    width: 25%;
+  }
+  .logout:hover{
+    background-color: red;
+    color: Yellow;
+  }
   
   .error {
     color: white;
