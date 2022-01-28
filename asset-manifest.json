@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chatrr-Chat-REACT-App/static/css/main.00e377e3.css",
+    "main.js": "/chatrr-Chat-REACT-App/static/js/main.9c18a78d.js",
+    "index.html": "/chatrr-Chat-REACT-App/index.html",
+    "main.00e377e3.css.map": "/chatrr-Chat-REACT-App/static/css/main.00e377e3.css.map",
+    "main.9c18a78d.js.map": "/chatrr-Chat-REACT-App/static/js/main.9c18a78d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00e377e3.css",
+    "static/js/main.9c18a78d.js"
+  ]
+}
